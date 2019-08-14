@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
                 backgroundworker.execute(type,username,password);
             }
         });   */
-    }
+    }// hey guys this is my first commit
 
     public void Onlogin(View view){
              String username = t1.getText().toString();
@@ -42,4 +42,3 @@ public class MainActivity extends AppCompatActivity {
 }
 
 
-// hey guys this is my first commit 
